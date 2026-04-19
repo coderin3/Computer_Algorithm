@@ -1,2 +1,27 @@
 # Computer_Algorithm
 2026-1 컴퓨터알고리즘 과제 
+
+[How to Run]
+
+1. Requirements
+- Python 3.11.9 
+
+2. Execution
+Run the following command in the terminal:
+
+python ha1_1.py
+python ha1_2.py
+python ha1_3.py
+
+
+3. Input
+- No external input is required.
+- Input data is included in each .py file.
+
+4. Output
+- The result will be printed to standard output.
+
+[Files]
+- ha1_1.py: This program uses Python's built-in random module.
+- ha1_2.py: Greedy Algorithm
+- ha1_3.py: Block Merge Sort
