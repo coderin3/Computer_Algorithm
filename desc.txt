@@ -1,0 +1,22 @@
+Student Info: 2466025 박혜린
+
+[How to Run]
+
+1. Requirements
+- Python 3.11.9 
+
+2. Execution
+Run the following command in the terminal:
+
+python ha4_1.py
+
+
+3. Input
+- No external input is required.
+- Input data is included in each .py file.
+
+4. Output
+- The result will be printed to standard output.
+
+[Files]
+- ha3_2.py: findMaxMin
